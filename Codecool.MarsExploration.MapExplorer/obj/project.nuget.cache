@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cq7/X33WjZvW8GO/qc1op63tT9slSfc+kXAuIOsjZqF43/nTxvRYVJxxndPOkdP+efMo8eT2tPsAJw+ekNpR5A==",
+  "success": true,
+  "projectFilePath": "/Users/balazs/C#/mars-exploration-2-csharp-IkitsMark/Codecool.MarsExploration.MapExplorer/Codecool.MarsExploration.MapExplorer.csproj",
+  "expectedPackageFiles": [
+    "/Users/balazs/.nuget/packages/microsoft.data.sqlite/7.0.11/microsoft.data.sqlite.7.0.11.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/microsoft.data.sqlite.core/7.0.11/microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.4/sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/sqlitepclraw.core/2.1.4/sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "/Users/balazs/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
